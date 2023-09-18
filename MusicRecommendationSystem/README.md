@@ -60,4 +60,4 @@ Data source: https://www.kaggle.com/tomigelo/spotify-audio-features/
 
 ![Popularity](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot16.png)
 
-![Recommended songs](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screenshot18.png)
+![Recommended songs](https://raw.github.com/raviprakash11/MusicRecommendationSystem/master/screenshot/Screens
